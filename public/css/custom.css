@@ -1,5 +1,5 @@
 /*
-Customizied CSS for masrab.github.io
+Customizied CSS for mashagh.github.io
 */
 
 html {
@@ -14,17 +14,7 @@ html {
 }
 
 body {
-	background-color: #fcfcfa;
-}
-
-.container {
-  max-width: 960px;
-  position: relative;
-  padding-left:  1rem;
-  /*padding-right: 1rem;*/
-  padding-right: 20%;  
-  margin-left:  auto;
-  margin-right: auto;
+	/*background-color: #fcfcfa;*/
 }
 
 
@@ -83,18 +73,6 @@ a:focus {
   text-decoration: underline;
 }
 
-article aside{
-  /*font-size: 0.75rem;*/
-  font-size: small;
-  font-family: "PT Sans", sans-serif;
-  right: 5px;
-  position: absolute;
-  width: 18%;
-  max-width: 180px;
-  margin-top:1rem;
-  /*word-wrap: break-word;*/
-  /*text-indent:-8px;*/
-}
 
 table {
    width: initial;
