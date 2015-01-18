@@ -1,21 +1,21 @@
 # Permalinks
-permalink:        /blog/:title
+permalink:        /:title
 baseurl:          '/'
 
 markdown:         kramdown
 highlighter:      pygments
 
 # Setup
-title:            Masoud Rabiei
-tagline:          Data science and beyond
-url:              http://masrab.github.io
+title:            Masoumeh Haghpanahi
+tagline:          ''
+url:              http://mashagh.github.io
 
 author:
-  name:           'Masoud Rabiei'
-  url:            http://www.masrab.com
+  name:           'Masoumeh Haghpanahi'
+  url:            http://mashagh.github.io
 
 # Custom vars
-github:           https://github.com/masrab
+github:           https://github.com/mashagh
 home_posts:       1
 pages_list:       
   About: '/about'
